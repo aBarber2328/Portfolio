@@ -974,7 +974,7 @@ section .container {
 
 .portfolio-image{
   object-fit: contain;
-  width: 100%;
+  width: 85%;
   max-height: 400px;
 }
 
