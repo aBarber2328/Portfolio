@@ -981,8 +981,12 @@ section .container {
 .portfolio-main{
   object-fit: contain;
   width: 100%;
-  max-height: 250px;
+  max-height: 200px;
 }
+
+/* .portfolio-info{
+  height: 250px;
+} */
 
 @media (max-width: 992px) {
   .portfolio-details .portfolio-info {
